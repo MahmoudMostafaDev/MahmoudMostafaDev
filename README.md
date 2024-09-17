@@ -4,7 +4,7 @@
 
 I am a Frontend React Developer and Computer Science student at Alexandria University with a GPA of 3.6/4. I have a strong foundation in HTML, CSS (Bootstrap and Tailwind CSS), JavaScript, and the React ecosystem. My skills extend to data structures, algorithms, and OOP. While my primary focus is on frontend development, I have also dealt with backend technologies like Node.js and Express, demonstrated through a Reddit clone project. Additionally, I have experience in UI/UX design using Figma, which enhances my ability to create intuitive and visually appealing user interfaces. I am passionate about software engineering and continuously improving my skills to deliver high-quality, user-centric solutions.
 
-## Projects
+## Main Projects
 
 <div align="center">
   <table>
@@ -22,17 +22,12 @@ I am a Frontend React Developer and Computer Science student at Alexandria Unive
     </tr>
   </table>
 </div>
-<!--
-**MahmoudMostafaDev/MahmoudMostafaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Top skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+
