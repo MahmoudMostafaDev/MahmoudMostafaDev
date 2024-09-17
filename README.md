@@ -11,12 +11,12 @@ I am a Frontend React Developer and Computer Science student at Alexandria Unive
     <tr>
       <td>
         <img src="https://res.cloudinary.com/dglez2bdb/image/upload/v1726555555/2_tmodp8.jpg" alt="Project 1 Image" width="300" height="200" style="border-radius: 10px;">
-        <h3>Reddit Clone</h3>
+       <a href="https://github.com/MahmoudMostafaDev/Grddit-ReactClone-for-Reddit"> <h3>Reddit Clone</h3></a>
         <p>A full-stack application mimicking Reddit, built with React, Node.js, and Express.</p>
       </td>
       <td>
         <img src="https://res.cloudinary.com/dglez2bdb/image/upload/v1726555585/1_igci6t.png" alt="Project 2 Image" width="300" height="200" style="border-radius: 10px;">
-        <h3>MovieWonders</h3>
+        <a href="https://github.com/MahmoudMostafaDev/MovieWonders"><h3>MovieWonders</h3></a>
         <p>A native js websites , dealing with an movies api , give user recommended movies </p>
       </td>
     </tr>
