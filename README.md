@@ -17,7 +17,9 @@ I am a Frontend React Developer and Computer Science student at Alexandria Unive
       <td>
         <img src="https://res.cloudinary.com/dglez2bdb/image/upload/e_improve:outdoor/1_zbngup.jpg" alt="Project 2 Image" width="300" height="200" style="border-radius: 10px;">
         <a href="https://github.com/MahmoudMostafaDev/MovieWonders"><h3>News Aggregator</h3></a>
-        <p style="width: 100px;">A Full-stack web application , Dedicated to displaying the latest news from different sources and places according to the user’s interest and preferences  </p>
+        <p>A Full-stack web application , Dedicated to displaying the latest news from different 
+          <br>
+          sources and places according to the user’s interest and preferences  </p>
       </td>
     </tr>
   </table>
