@@ -15,9 +15,9 @@ I am a Frontend React Developer and Computer Science student at Alexandria Unive
         <p>A full-stack application mimicking Reddit, built with React, Node.js, and Express.</p>
       </td>
       <td>
-        <img src="https://res.cloudinary.com/dglez2bdb/image/upload/v1726555585/1_igci6t.png" alt="Project 2 Image" width="300" height="200" style="border-radius: 10px;">
-        <a href="https://github.com/MahmoudMostafaDev/MovieWonders"><h3>MovieWonders</h3></a>
-        <p>A native js websites , dealing with an movies api , give user recommended movies </p>
+        <img src="https://res.cloudinary.com/dglez2bdb/image/upload/e_improve:outdoor/1_zbngup.jpg" alt="Project 2 Image" width="300" height="200" style="border-radius: 10px;">
+        <a href="https://github.com/MahmoudMostafaDev/MovieWonders"><h3>News Aggregator</h3></a>
+        <p>A Full-stack web application , Dedicated to displaying the latest news from different sources and places according to the user’s interest and preferences  </p>
       </td>
     </tr>
   </table>
