@@ -9,7 +9,7 @@ Dedicated Software Engineer experience in building dynamic web applications util
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [My Portfolio](http://mahmouddevportfolio.vercel.app/)
 * ✉️  You can contact me at [mahmoudwebdev@outlook.com](mailto:mahmoudwebdev@outlook.com)
-* 🧠  I'm learning Sass
+* 🧠  I'm learning System Design
 
 ### Skills
 
